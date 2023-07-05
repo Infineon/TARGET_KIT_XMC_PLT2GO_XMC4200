@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kit Platform2GO XTREME XMC4200 kit - This kit has the XMC4200 device with debugger plus CAN, Arduino, MikroBUS and Shields2Go form factor. Equipped with an ARM Cortex-M4 based XMC™ Microcontroller from Infineon Technologies AG, the XMC4200 Platform2Go is designed to evaluate the capabilities of Infineon's XMC4200 Microcontroller.     
+Kit Platform2GO XTREME XMC4200 kit - This kit has the XMC4200 device with debugger plus CAN, Arduino, MikroBUS and Shields2Go form factor. Equipped with an ARM® Cortex®-M4 based XMC™ Microcontroller from Infineon Technologies AG, the XMC4200 Platform2Go is designed to evaluate the capabilities of Infineon's XMC4200 Microcontroller.     
 **Note:**
 Programming this kit requires installing 
 [SEGGER J-Link software](https://www.segger.com/downloads/jlink/#J-LinkSoftwareAndDocumentationPack)
@@ -15,7 +15,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Features:
 
-* XMC4200 (ARM Cortex-M4 based) Microcontroller
+* XMC4200 (ARM® Cortex®-M4 based) Microcontroller
 * On-board Debug Probe with USB interface supporting SWD + SWO
 * Detachable J-Link debugger and UART virtual COM port, with micro USB connector
 * Virtual COM Port via Debug Probe

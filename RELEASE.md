@@ -1,5 +1,5 @@
 # KIT_XMC_PLT2GO_XMC4200 BSP Release Notes
-Kit Platform2GO XTREME XMC4200 kit - This kit has the XMC4200 device with debugger plus CAN, Arduino, MikroBUS and Shields2Go form factor. Equipped with an ARM Cortex-M4 based XMC™ Microcontroller from Infineon Technologies AG, the XMC4200 Platform2Go is designed to evaluate the capabilities of Infineon's XMC4200 Microcontroller.     
+Kit Platform2GO XTREME XMC4200 kit - This kit has the XMC4200 device with debugger plus CAN, Arduino, MikroBUS and Shields2Go form factor. Equipped with an ARM® Cortex®-M4 based XMC™ Microcontroller from Infineon Technologies AG, the XMC4200 Platform2Go is designed to evaluate the capabilities of Infineon's XMC4200 Microcontroller.     
 **Note:**
 Programming this kit requires installing 
 [SEGGER J-Link software](https://www.segger.com/downloads/jlink/#J-LinkSoftwareAndDocumentationPack)
@@ -17,6 +17,9 @@ The KIT_XMC_PLT2GO_XMC4200 library includes the following:
 * API documentation
 
 ### What Changed?
+#### v2.2.0
+* Added functionality to enable BSP Assistant chip flow
+* Added capabilities to match BSPS created by BSP Assistant chip flow
 #### v2.1.0
 * Add macro `CYBSP_USER_BTN_DRIVE` indicating the drive mode that should be used for user buttons
 #### v2.0.0
@@ -35,8 +38,8 @@ This version of the KIT_XMC_PLT2GO_XMC4200 BSP was validated for compatibility w
 
 | Software and Tools                        | Version |
 | :---                                      | :----:  |
-| ModusToolbox™ Software Environment        | 3.0.0   |
-| GCC Compiler                              | 10.3.1  |
+| ModusToolbox™ Software Environment        | 3.1.0   |
+| GCC Compiler                              | 12.2.1  |
 
 Minimum required ModusToolbox™ Software Environment: v3.0.0
 
